@@ -164,6 +164,9 @@ let currentAccount;
 btnLogin.addEventListener('click', function (e) {
   // Prevent form from submitting
   e.preventDefault();
+  
+  const d = (new Date()).toString().split(' ').splice(1,3).join(' ');
+  labelDate.innerHTML = d;
 
   currentAccount = accounts.find(
     acc => acc.username === inputLoginUsername.value
