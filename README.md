@@ -25,7 +25,7 @@ Bankpay is an online Banking App that allow users to send virtual money to each 
 
 - After succesfully login, the user can see a dashboard.
 - Dashboard consists of Current balance, Recent transaction history, Transfer money option, Request loan option, Close Account option and few other stats.
-- With 'Transfer money' option, the current user can transfer his/her money to other users. The amount will be deducted from the current balance. The amount transferred will get reflected and updated in the respective other user's account.
+- With 'Transfer money' option, the current user can transfer his/her money to other users. The amount will be deducted from the current balance. The amount transferred will get reflected and updated in the respective other user's account. You can use (Transfer to: pranjal, sarah, priyanka, iman), other usernames won't work.
 - With 'Request money' option, the current user can apply for a loan of upto certain amount of rupees.
 - With 'Close account' option, the current user can permanently close his account from the App.
 - The current user can also sort the recent transactions by click the Sort button at the bottom of dashboard.
