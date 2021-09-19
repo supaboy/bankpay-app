@@ -41,6 +41,12 @@ Bankpay is an online Banking App that allow users to send virtual money to each 
 ![App Screenshot](https://raw.githubusercontent.com/supaboy/bankpay-app/main/Screenshot%20(305).png)
 
   
+## FAQ
+
+#### Q1: How do I download the project in my computer and use it?
+
+- If you're new to GitHub and just want to download the entire code, hit the green button saying "Code", and then choose the "Download ZIP" option.
+- Extract the .zip folder and open 'index.html' file in your latest web browser.
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranjal-mankar-76058216a/)
